@@ -2,67 +2,67 @@
   "result": [
     {
       "id": "01",
+      "name": "Amok Fish Chilli Wraps",
+      "country": "Kamboja",
+      "spicy_level": "Sedang",
+      "description": "Ikan dibungkus daun pisang dengan bumbu cabai khas Kamboja, dimasak hingga harum dan lembut.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/amok-fish-chilli-wraps.jpg"
+    },
+    {
+      "id": "02",
       "name": "Bebek Beijing",
       "country": "China",
       "spicy_level": "Rendah",
       "description": "Bebek panggang khas Beijing dengan kulit yang sangat renyah dan daging lembut. Biasanya disajikan bersama pancake tipis, daun bawang, dan saus hoisin.",
-      "photo": "https://drive.google.com/uc?export=view&id=1-bEBQZLT1UBhGgAtVBaIpNxfV-x4C3wo"
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/bebek%20beijing.jpg"
     },
     {
-      "id": "02",
+      "id": "03",
       "name": "Bun Cha",
       "country": "Vietnam",
       "spicy_level": "Rendah",
       "description": "Hidangan khas Hanoi berisi daging babi panggang, bihun, sayuran segar, dan kuah manis-asam yang ringan. Rasanya segar dan tidak pedas.",
-      "photo": "https://drive.google.com/uc?export=view&id=1Ys3ZIEcA3-CcYxWIZW5MDkDKmq9W4rmh"
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/bun%20cha.jpg"
     },
     {
-      "id": "03",
+      "id": "04",
       "name": "Dimsum",
       "country": "China",
       "spicy_level": "Tidak Pedas",
       "description": "Kudapan tradisional Kanton seperti pangsit, siomay, dan bakpao yang dikukus atau digoreng. Biasanya disajikan dalam keranjang bambu.",
-      "photo": "https://drive.google.com/uc?export=view&id=1ZsE2ektzOz8UOCOL3YbaAT1erMAwb3jN"
-    },
-    {
-      "id": "04",
-      "name": "Hainan Chicken Rice",
-      "country": "China / Singapura",
-      "spicy_level": "Tidak Pedas",
-      "description": "Nasi wangi yang dimasak kaldu ayam, disajikan bersama ayam rebus lembut, saus jahe, kecap asin, dan sambal. Hidangan sederhana namun kaya rasa.",
-      "photo": "https://drive.google.com/uc?export=view&id=1D64uomdB961eTwNlkv02X_yeRs5goclq"
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/dimsum.jpg"
     },
     {
       "id": "05",
-      "name": "Rendang",
-      "country": "Indonesia",
-      "spicy_level": "Sangat Pedas",
-      "description": "Daging sapi dimasak sangat lama dengan santan dan rempah Minang seperti cabai, serai, jahe, dan kunyit. Rasanya pedas, gurih, dan sangat kaya rempah.",
-      "photo": "https://drive.google.com/uc?export=view&id=14f0P7z0m31X3lmeb-2KWCS4kTjs9ghOD"
+      "name": "Hainanese Chicken Rice",
+      "country": "China / Singapura",
+      "spicy_level": "Tidak Pedas",
+      "description": "Nasi wangi yang dimasak kaldu ayam, disajikan bersama ayam rebus lembut, saus jahe, kecap asin, dan sambal. Hidangan sederhana namun kaya rasa.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/hainanese-chicken-rice.jpg"
     },
     {
       "id": "06",
-      "name": "Sup Mie Asia",
-      "country": "Asia Tenggara",
-      "spicy_level": "Sedang",
-      "description": "Sup mie hangat dengan kuah gurih yang berisi sayuran, telur, atau daging. Cita rasanya bervariasi tergantung negara, namun tetap ringan dan mudah dinikmati.",
-      "photo": "https://drive.google.com/uc?export=view&id=14f0P7z0m31X3lmeb-2KWCS4kTjs9ghOD"
-    },
-    {
-      "id": "07",
       "name": "Sushi",
       "country": "Jepang",
       "spicy_level": "Tidak Pedas",
       "description": "Nasi Jepang yang dibumbui cuka dan disajikan dengan ikan mentah, rumput laut, atau sayuran. Terkenal sebagai makanan sehat dan segar.",
-      "photo": "https://drive.google.com/uc?export=view&id=1b0YNwGYVN6nwI1eb49TaDMKuXUJpgX-A"
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/sushi.jfif"
+    },
+    {
+      "id": "07",
+      "name": "Rendang",
+      "country": "Indonesia",
+      "spicy_level": "Sangat Pedas",
+      "description": "Daging sapi dimasak sangat lama dengan santan dan rempah Minang seperti cabai, serai, jahe, dan kunyit. Rasanya pedas, gurih, dan sangat kaya rempah.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/rendang.jpg"
     },
     {
       "id": "08",
-      "name": "Tom Yam",
-      "country": "Thailand",
-      "spicy_level": "Pedas",
-      "description": "Sup pedas-asam Thailand dengan udang atau seafood, dicampur serai, cabai, jahe, dan daun jeruk. Rasanya kuat dan menyegarkan.",
-      "photo": "https://drive.google.com/uc?export=view&id=12uAgDX1GVRpgTdZE-pJ8E5SgYe1wtq3O"
+      "name": "Sup Mie Asia",
+      "country": "Asia Tenggara",
+      "spicy_level": "Sedang",
+      "description": "Sup mie hangat dengan kuah gurih yang berisi sayuran, telur, atau daging. Cita rasanya bervariasi tergantung negara, namun tetap ringan dan mudah dinikmati.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/sup%20mie.jpg"
     },
     {
       "id": "09",
@@ -70,7 +70,7 @@
       "country": "Jepang",
       "spicy_level": "Tidak Pedas",
       "description": "Daging babi berbalut tepung roti yang digoreng renyah, disajikan dengan nasi, kol, dan saus tonkatsu yang manis-gurih.",
-      "photo": "https://drive.google.com/uc?export=view&id=1_056nH4sxsM0Lt8W9-E6hIZxeLUD8auH"
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/tonkatsu.jpeg"
     },
     {
       "id": "10",
@@ -78,8 +78,7 @@
       "country": "Korea Selatan",
       "spicy_level": "Pedas",
       "description": "Kue beras kenyal yang dimasak dalam saus gochujang pedas-manis. Biasanya disajikan bersama fish cake dan telur rebus.",
-      "photo": "https://allofresh.id/blog/wp-content/uploads/2023/05/cara-membuat-topokki-1.jpg"
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/topokki.jpg"
     }
   ]
 }
-
