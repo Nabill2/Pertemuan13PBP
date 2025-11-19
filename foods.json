@@ -1,0 +1,94 @@
+{
+"result": [
+{
+"id": "01",
+"name": "Sushi",
+"origin": "Jepang",
+"category": "Makanan Laut",
+"flavor": "Gurih & Segar",
+"price": "Rp 25.000 - Rp 85.000",
+"image": "[https://emdoi.vn/wp-content/uploads/2025/07/sushi-vu-pham-ham-0.webp](https://emdoi.vn/wp-content/uploads/2025/07/sushi-vu-pham-ham-0.webp)"
+},
+{
+"id": "02",
+"name": "Ramen",
+"origin": "Jepang",
+"category": "Mie Kuah",
+"flavor": "Gurih",
+"price": "Rp 35.000 - Rp 60.000",
+"image": "[https://www.sidechef.com/recipe/051f5aff-8625-4616-8aa5-1581890442df.jpg?d=1408x1120](https://www.sidechef.com/recipe/051f5aff-8625-4616-8aa5-1581890442df.jpg?d=1408x1120)"
+},
+{
+"id": "03",
+"name": "Kimchi",
+"origin": "Korea Selatan",
+"category": "Sayuran Fermentasi",
+"flavor": "Asam Pedas",
+"price": "Rp 10.000 - Rp 25.000",
+"image": "[https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi.jpg](https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi.jpg)"
+},
+{
+"id": "04",
+"name": "Bibimbap",
+"origin": "Korea Selatan",
+"category": "Nasi Campur",
+"flavor": "Gurih Seimbang",
+"price": "Rp 40.000 - Rp 70.000",
+"image": "[https://takestwoeggs.com/wp-content/uploads/2025/05/Overhead-Bibimbap-Korean-Rice-Bowl.webp](https://takestwoeggs.com/wp-content/uploads/2025/05/Overhead-Bibimbap-Korean-Rice-Bowl.webp)"
+},
+{
+"id": "05",
+"name": "Pad Thai",
+"origin": "Thailand",
+"category": "Mie Goreng",
+"flavor": "Asin Manis",
+"price": "Rp 35.000 - Rp 65.000",
+"image": "[https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908-500x500.jpg](https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908-500x500.jpg)"
+},
+{
+"id": "06",
+"name": "Tom Yum",
+"origin": "Thailand",
+"category": "Sup",
+"flavor": "Asam Pedas",
+"price": "Rp 30.000 - Rp 55.000",
+"image": "[https://aslimasako.com/storage/post/new-title-31102023-094709.jpg](https://aslimasako.com/storage/post/new-title-31102023-094709.jpg)"
+},
+{
+"id": "07",
+"name": "Nasi Goreng",
+"origin": "Indonesia",
+"category": "Nasi Goreng",
+"flavor": "Gurih",
+"price": "Rp 15.000 - Rp 35.000",
+"image": "[https://dcostseafood.id/wp-content/uploads/2023/04/Nasi-Goreng-Spesial.jpg](https://dcostseafood.id/wp-content/uploads/2023/04/Nasi-Goreng-Spesial.jpg)"
+},
+{
+"id": "08",
+"name": "Rendang",
+"origin": "Indonesia",
+"category": "Daging",
+"flavor": "Pedas Gurih",
+"price": "Rp 25.000 - Rp 50.000",
+"image": "[https://rajominang.id/blog/uploads/images/202407/image_750x_66825d6c67460.jpg](https://rajominang.id/blog/uploads/images/202407/image_750x_66825d6c67460.jpg)"
+},
+{
+"id": "09",
+"name": "Hainan Chicken Rice",
+"origin": "China / Singapore",
+"category": "Nasi Ayam",
+"flavor": "Gurih Ringan",
+"price": "Rp 30.000 - Rp 60.000",
+"image": "[https://static01.nyt.com/images/2025/01/28/multimedia/KP-Hainan-Chicken-Rice-hcgv/KP-Hainan-Chicken-Rice-hcgv-mediumSquareAt3X.jpg](https://static01.nyt.com/images/2025/01/28/multimedia/KP-Hainan-Chicken-Rice-hcgv/KP-Hainan-Chicken-Rice-hcgv-mediumSquareAt3X.jpg)"
+},
+{
+"id": "10",
+"name": "Dim Sum",
+"origin": "China",
+"category": "Kudapan Kukus",
+"flavor": "Gurih",
+"price": "Rp 20.000 - Rp 45.000",
+"image": "[https://ik.imagekit.io/tvlk/blog/2024/08/shutterstock_2386097227.jpg?tr=dpr-2,w-675](https://ik.imagekit.io/tvlk/blog/2024/08/shutterstock_2386097227.jpg?tr=dpr-2,w-675)"
+}
+]
+}
