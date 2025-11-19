@@ -5,90 +5,80 @@
       "name": "Bebek Beijing",
       "country": "China",
       "spicy_level": "Rendah",
-      "category": "Daging Panggang",
-      "description": "Bebek panggang khas Beijing dengan kulit renyah dan daging lembut, disajikan bersama pancake tipis, saus hoisin, dan irisan daun bawang.",
-      "photo": "https://i.imgur.com/ILZQm2c.jpeg"
+      "description": "Bebek panggang khas Beijing dengan kulit yang sangat renyah dan daging lembut. Biasanya disajikan bersama pancake tipis, daun bawang, dan saus hoisin.",
+      "photo": "https://drive.google.com/uc?export=view&id=1-bEBQZLT1UBhGgAtVBaIpNxfV-x4C3wo"
     },
     {
       "id": "02",
       "name": "Bun Cha",
       "country": "Vietnam",
       "spicy_level": "Rendah",
-      "category": "Mie dan Daging Panggang",
-      "description": "Hidangan Vietnam berupa mie beras yang disajikan dengan daging babi panggang, kuah manis-asam, rempah segar, dan sayuran mentah.",
-      "photo": "https://i.imgur.com/4OeTJm9.jpeg"
+      "description": "Hidangan khas Hanoi berisi daging babi panggang, bihun, sayuran segar, dan kuah manis-asam yang ringan. Rasanya segar dan tidak pedas.",
+      "photo": "https://drive.google.com/uc?export=view&id=1Ys3ZIEcA3-CcYxWIZW5MDkDKmq9W4rmh"
     },
     {
       "id": "03",
       "name": "Dimsum",
       "country": "China",
       "spicy_level": "Tidak Pedas",
-      "category": "Makanan Kukus",
-      "description": "Kudapan kecil khas Kanton seperti pangsit, bakpao, dan siomay yang biasanya disajikan dalam keranjang bambu bersama teh hangat.",
-      "photo": "https://i.imgur.com/mOq3I0R.jpeg"
+      "description": "Kudapan tradisional Kanton seperti pangsit, siomay, dan bakpao yang dikukus atau digoreng. Biasanya disajikan dalam keranjang bambu.",
+      "photo": "https://drive.google.com/uc?export=view&id=1ZsE2ektzOz8UOCOL3YbaAT1erMAwb3jN"
     },
     {
       "id": "04",
       "name": "Hainan Chicken Rice",
-      "country": "China / Singapore",
+      "country": "China / Singapura",
       "spicy_level": "Tidak Pedas",
-      "category": "Nasi dan Daging",
-      "description": "Nasi wangi dimasak dengan kaldu ayam, disajikan dengan ayam rebus lembut, saus jahe, kecap asin, dan sambal khas Hainan.",
-      "photo": "https://i.imgur.com/5q2iCbZ.jpeg"
+      "description": "Nasi wangi yang dimasak kaldu ayam, disajikan bersama ayam rebus lembut, saus jahe, kecap asin, dan sambal. Hidangan sederhana namun kaya rasa.",
+      "photo": "https://drive.google.com/uc?export=view&id=1D64uomdB961eTwNlkv02X_yeRs5goclq"
     },
     {
       "id": "05",
       "name": "Rendang",
       "country": "Indonesia",
       "spicy_level": "Sangat Pedas",
-      "category": "Daging Berbumbu",
-      "description": "Masakan Minang berbahan daging sapi yang dimasak berjam-jam dengan santan dan rempah, menghasilkan rasa kaya, pedas, dan aroma kuat.",
-      "photo": "https://i.imgur.com/Rp1OCkR.jpeg"
+      "description": "Daging sapi dimasak sangat lama dengan santan dan rempah Minang seperti cabai, serai, jahe, dan kunyit. Rasanya pedas, gurih, dan sangat kaya rempah.",
+      "photo": "https://drive.google.com/uc?export=view&id=14f0P7z0m31X3lmeb-2KWCS4kTjs9ghOD"
     },
     {
       "id": "06",
-      "name": "Amok",
-      "country": "Kamboja",
-      "spicy_level": "Rendah",
-      "category": "Kari Tradisional",
-      "description": "Kari ikan khas Kamboja yang dimasak dengan santan, daun jeruk purut, kunyit, dan rempah Khmer, lalu dikukus dalam mangkuk daun pisang hingga bertekstur lembut dan creamy.",
-      "photo": "https://i.imgur.com/tEUHdsN.jpeg"
+      "name": "Sup Mie Asia",
+      "country": "Asia Tenggara",
+      "spicy_level": "Sedang",
+      "description": "Sup mie hangat dengan kuah gurih yang berisi sayuran, telur, atau daging. Cita rasanya bervariasi tergantung negara, namun tetap ringan dan mudah dinikmati.",
+      "photo": "https://drive.google.com/uc?export=view&id=14f0P7z0m31X3lmeb-2KWCS4kTjs9ghOD"
     },
     {
       "id": "07",
       "name": "Sushi",
       "country": "Jepang",
       "spicy_level": "Tidak Pedas",
-      "category": "Makanan Laut",
-      "description": "Nasi Jepang yang dibumbui cuka dan disajikan bersama ikan mentah, rumput laut, sayuran, atau bahan laut lainnya.",
-      "photo": "https://i.imgur.com/YhSWCL5.jpeg"
+      "description": "Nasi Jepang yang dibumbui cuka dan disajikan dengan ikan mentah, rumput laut, atau sayuran. Terkenal sebagai makanan sehat dan segar.",
+      "photo": "https://drive.google.com/uc?export=view&id=1b0YNwGYVN6nwI1eb49TaDMKuXUJpgX-A"
     },
     {
       "id": "08",
       "name": "Tom Yam",
       "country": "Thailand",
       "spicy_level": "Pedas",
-      "category": "Sup Pedas",
-      "description": "Sup Thailand dengan rasa asam-pedas kuat, biasanya menggunakan udang atau seafood, dicampur serai, daun jeruk, jahe, dan cabai.",
-      "photo": "https://i.imgur.com/NYEFNys.jpeg"
+      "description": "Sup pedas-asam Thailand dengan udang atau seafood, dicampur serai, cabai, jahe, dan daun jeruk. Rasanya kuat dan menyegarkan.",
+      "photo": "https://drive.google.com/uc?export=view&id=12uAgDX1GVRpgTdZE-pJ8E5SgYe1wtq3O"
     },
     {
       "id": "09",
       "name": "Tonkatsu",
       "country": "Jepang",
       "spicy_level": "Tidak Pedas",
-      "category": "Gorengan",
-      "description": "Irisan daging babi yang dibalur tepung roti lalu digoreng hingga renyah, disajikan dengan nasi, kol, dan saus tonkatsu yang manis-gurih.",
-      "photo": "https://i.imgur.com/FK6PK5A.jpeg"
+      "description": "Daging babi berbalut tepung roti yang digoreng renyah, disajikan dengan nasi, kol, dan saus tonkatsu yang manis-gurih.",
+      "photo": "https://drive.google.com/uc?export=view&id=1_056nH4sxsM0Lt8W9-E6hIZxeLUD8auH"
     },
     {
       "id": "10",
       "name": "Topokki",
       "country": "Korea Selatan",
       "spicy_level": "Pedas",
-      "category": "Street Food",
-      "description": "Kue beras kenyal yang dimasak dengan saus gochujang pedas-manis, sering disajikan bersama fish cake dan telur rebus.",
-      "photo": "https://i.imgur.com/VuCSv1n.jpeg"
+      "description": "Kue beras kenyal yang dimasak dalam saus gochujang pedas-manis. Biasanya disajikan bersama fish cake dan telur rebus.",
+      "photo": "https://drive.google.com/uc?export=view&id=1YbQDCfUh-W9k3Vy2F3_2ZUNQ8Ge6QpI-"
     }
   ]
 }
