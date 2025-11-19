@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "id": "01",
+      "name": "Batagor",
+      "description": "Bakso tahu goreng khas Bandung yang disajikan dengan saus kacang dan kecap manis pedas.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/batagor.jpg"
+    },
+    {
+      "id": "02",
+      "name": "Uli Ketan",
+      "description": "Ketan kukus yang biasanya disajikan dengan parutan kelapa dan gula merah cair, lembut dan manis.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/uliketan.jpeg"
+    },
+    {
+      "id": "03",
+      "name": "Ketupat Tahu",
+      "description": "Ketupat disajikan dengan tahu goreng, sayuran, dan sambal kacang. Makanan tradisional yang gurih dan nikmat.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/ketupattahu.jpeg"
+    },
+    {
+      "id": "04",
+      "name": "Peuyeum",
+      "description": "Tape singkong khas Bandung yang manis dan sedikit asam, biasanya dijadikan camilan atau oleh-oleh.",
+      "photo": "https://raw.githubusercontent.com/Nabill2/Pertemuan13PBP/main/peuyeum.jpg"
+    }
+  ]
+}
